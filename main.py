@@ -25,6 +25,6 @@ url_material = "https://west.albion-online-data.com/api/v2/stats/prices/T4_ARTEF
 for i in range(125):
     if(data1[i]["sell_price_min"] != 0):
         print()
-#asdasd
+
 
 # print(data1[i]["item_id"] + " " + str(data1[i]["sell_price_min"]))
