@@ -26,5 +26,4 @@ for i in range(125):
     if(data1[i]["sell_price_min"] != 0):
         print()
 
-
 # print(data1[i]["item_id"] + " " + str(data1[i]["sell_price_min"]))
