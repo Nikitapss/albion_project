@@ -1,0 +1,181 @@
+ T4E2 Paws | quality :1
+Metal(1) : 1345
+Wood(1) : 690
+Material : 43600
+Profit : 42946
+---------T4E2 Paws | quality :2
+Metal(1) : 1345
+Wood(1) : 690
+Material : 43600
+Profit : 47670
+---------T4E3 Paws | quality :0
+Metal(1) : 6784
+Wood(1) : 5306
+Material : 43600
+Profit : 38805
+---------T4E3 Paws | quality :1
+Metal(1) : 6784
+Wood(1) : 5306
+Material : 43600
+Profit : 28982
+---------T4E3 Paws | quality :2
+Metal(1) : 6784
+Wood(1) : 5306
+Material : 43600
+Profit : 34178
+---------T4E4 Paws | quality :2
+Metal(1) : 32576
+Wood(1) : 36999
+Material : 43600
+Profit : 22380
+---------T4E4 Paws | quality :3
+Metal(1) : 32576
+Wood(1) : 36999
+Material : 43600
+Profit : 117810
+---------T4E4 Paws | quality :4
+Metal(1) : 32576
+Wood(1) : 36999
+Material : 43600
+Profit : 2291325
+---------T5E1 Paws | quality :3
+Metal(1) : 1600
+Wood(1) : 1095
+Material : 43694
+Profit : 94232
+---------T5E2 Paws | quality :0
+Metal(1) : 6048
+Wood(1) : 3465
+Material : 43694
+Profit : 70757
+---------T5E2 Paws | quality :1
+Metal(1) : 6048
+Wood(1) : 3465
+Material : 43694
+Profit : 66690
+---------T5E2 Paws | quality :2
+Metal(1) : 6048
+Wood(1) : 3465
+Material : 43694
+Profit : 70466
+---------T5E2 Paws | quality :3
+Metal(1) : 6048
+Wood(1) : 3465
+Material : 43694
+Profit : 104478
+---------T6E3 Paws | quality :2
+Metal(1) : 74349
+Wood(1) : 62764
+Material : 77000
+Profit : -503273
+---------T7E0 Paws | quality :1
+Metal(1) : 4799
+Wood(1) : 5840
+Material : 100000
+Profit : 79043
+---------T7E0 Paws | quality :2
+Metal(1) : 4799
+Wood(1) : 5840
+Material : 100000
+Profit : 79043
+---------T7E0 Paws | quality :3
+Metal(1) : 4799
+Wood(1) : 5840
+Material : 100000
+Profit : 173541
+---------T7E1 Paws | quality :1
+Metal(1) : 21398
+Wood(1) : 11883
+Material : 100000
+Profit : 51420
+---------T7E1 Paws | quality :2
+Metal(1) : 21398
+Wood(1) : 11883
+Material : 100000
+Profit : 51420
+---------T7E1 Paws | quality :3
+Metal(1) : 21398
+Wood(1) : 11883
+Material : 100000
+Profit : 146840
+---------T7E2 Paws | quality :1
+Metal(1) : 61437
+Wood(1) : 39992
+Material : 100000
+Profit : -37908
+---------T7E2 Paws | quality :2
+Metal(1) : 61437
+Wood(1) : 39992
+Material : 100000
+Profit : -37903
+---------T7E3 Paws | quality :2
+Metal(1) : 208996
+Wood(1) : 158959
+Material : 100000
+Profit : -1330242
+---------T8E0 Paws | quality :1
+Metal(1) : 22486
+Wood(1) : 21299
+Material : 600000
+Profit : 279361
+---------T8E0 Paws | quality :2
+Metal(1) : 22486
+Wood(1) : 21299
+Material : 600000
+Profit : 827460
+---------T8E0 Paws | quality :3
+Metal(1) : 22486
+Wood(1) : 21299
+Material : 600000
+Profit : 1791357
+---------T8E1 Paws | quality :0
+Metal(1) : 69997
+Wood(1) : 36789
+Material : 600000
+Profit : 1360253
+---------T8E1 Paws | quality :2
+Metal(1) : 69997
+Wood(1) : 36789
+Material : 600000
+Profit : 1454753
+---------T8E1 Paws | quality :3
+Metal(1) : 69997
+Wood(1) : 36789
+Material : 600000
+Profit : 698741
+---------T8E2 Paws | quality :2
+Metal(1) : 143999
+Wood(1) : 149982
+Material : 600000
+Profit : -236072
+---------T8E2 Paws | quality :3
+Metal(1) : 143999
+Wood(1) : 149982
+Material : 600000
+Profit : 236427
+---------T8E3 Paws | quality :1
+Metal(1) : 554999
+Wood(1) : 524499
+Material : 600000
+Profit : -4264310
+---------T8E3 Paws | quality :2
+Metal(1) : 554999
+Wood(1) : 524499
+Material : 600000
+Profit : -3980807
+---------T8E3 Paws | quality :3
+Metal(1) : 554999
+Wood(1) : 524499
+Material : 600000
+Profit : -3801256
+---------T8E3 Paws | quality :4
+Metal(1) : 554999
+Wood(1) : 524499
+Material : 600000
+Profit : 12556694
+---------T8E4 Paws | quality :3
+Metal(1) : 2149983
+Wood(1) : 2820881
+Material : 600000
+Profit : -11138797
+---------
